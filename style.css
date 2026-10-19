@@ -1,0 +1,17 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	padding: 2rem; 
+
+	min-height: 80dvh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+	position: relative;
+
+	background-color: #FFFF;
+}
